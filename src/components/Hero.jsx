@@ -29,7 +29,7 @@ export default function Hero() {
       {/* Your Hero Content goes here (Text, Buttons, etc.) */}
       <div className="relative z-10 text-center">
         <h1 className="text-4xl font-bold text-white">
-          Welcome to <span className="text-blue-500">Gwiza Joy</span>
+          Welcome <span className="text-blue-500">mariko</span>
         </h1>
       </div>
     </section>
