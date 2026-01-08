@@ -29,7 +29,7 @@ export default function Hero() {
       {/* Your Hero Content goes here (Text, Buttons, etc.) */}
       <div className="relative z-10 text-center">
         <h1 className="text-4xl font-bold text-white">
-          Friends <span className="text-blue-500">Money</span> come
+          <span className="text-blue-500">Money</span> will come
         </h1>
       </div>
     </section>
